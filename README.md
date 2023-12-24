@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - I'm from Japan
+- I'm beginner, who started in December 2023
 
 <!---
 J60116/J60116 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
